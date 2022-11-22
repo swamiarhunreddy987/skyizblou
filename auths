@@ -1,8 +1,13 @@
 [
-{
+  {
     "name": "Demo",
     "username": "demo987",
     "key": "demodemodemo"
+  },
+  {
+    "name": "Jerry Wilson",
+    "username": "jerry8123",
+    "key": "55069fa102cc310d67a6be3e4b42422d"
   },
   {
     "name": "Manoj",
@@ -31,7 +36,7 @@
   },
   {
     "name": "Sudh",
-    "username": "@sudh18",
+    "username": "sudh18",
     "key": "44f23f556471047a3e509db223435ed7"
   },
   {
